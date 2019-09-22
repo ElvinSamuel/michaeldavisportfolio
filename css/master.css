@@ -16,6 +16,12 @@ body {
     margin-bottom: 8px;
 }
 
+.pageContent {
+    width: 80%;
+    margin: auto;
+    padding-top: 2%;
+}
+
 /* 
 =========================
     Nav Bar design
@@ -29,14 +35,34 @@ nav {
 nav ul {
     color: white;
     list-style-type: none;
-    text-align: right;
     padding-right: 10px;
+    display: inline;
 }
 
 nav li {
     display: inline;
 }
 /* ====================== */
+
+#about aside {
+    width: 30%;
+    display: inline;
+}
+
+#about img {
+    width: 30%;
+    display: inline;
+}
+
+#contact aside {
+    width: 30%;
+    display: inline;
+}
+
+#contact img {
+    width: 40%;
+    display: inline;
+}
 
 footer {
     padding: 0;
