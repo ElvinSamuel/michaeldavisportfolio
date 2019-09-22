@@ -16,6 +16,28 @@ body {
     margin-bottom: 8px;
 }
 
+/* 
+=========================
+    Nav Bar design
+=========================
+*/
+nav {
+    position: fixed;
+    width: 100%;
+}
+
+nav ul {
+    color: white;
+    list-style-type: none;
+    text-align: right;
+    padding-right: 10px;
+}
+
+nav li {
+    display: inline;
+}
+/* ====================== */
+
 footer {
     padding: 0;
     color: white;
