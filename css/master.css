@@ -21,11 +21,12 @@ body {
     margin-bottom: 8px;
 }
 
-.pageContent {
-    width: 80%;
-    height: 90%;
-    margin: auto;
-    padding-top: 2%;
+.page > article {
+    width: 50%;
+    margin-left: 20%;
+    float: left;
+    margin-top: 10%;
+    font-size: .8em;
 }
 
 /* 
@@ -92,30 +93,9 @@ aside {
     background-image: url(../img/Website/awards-4167069_1920.jpg);
 }
 
-#about aside {
-    width: 45%;
-    float: left;
-}
-
-#about img {
-    width: 45%;
-    float: right;
-}
-
-#contact aside {
-    width: 45%;
-    float: left;
-}
-
-#contact img {
-    width: 45%;
-    float: right;
-    vertical-align: middle;
-}
-
 #sideNavigation {
     background-color: red;
-    width: 20%;
+    width: 15%;
     height: 80%;
     position: fixed;
     top: 10%;
