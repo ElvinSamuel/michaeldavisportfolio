@@ -61,9 +61,9 @@ h1 {
 }
 
 .page > aside {
-    width: 12%;
+    width: 20%;
     float: left;
-    padding-left: 10px;
+    padding-left: 5px;
     height: 500px;
     margin-top: 15%;
 }
@@ -145,12 +145,13 @@ nav li a {
 }
 
 #sideNavigation {
-    width: 15%;
-    height: 80%;
+    width: 12%;
+    height: 60%;
     position: fixed;
-    top: 10%;
+    top: 20%;
     left: 2%;
     display: none;
+    font-size: .8em;
 }
 
 .sideNavButtons {
