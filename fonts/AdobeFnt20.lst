@@ -1,0 +1,159 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeueBold
+FamilyName:Bebas Neue
+StyleName:Bold
+FullName:Bebas Neue Bold
+MenuName:Bebas Neue Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\BEBASNEUEBOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101772
+FileModTime:1563286190
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Bold
+NameArray:0,Win,1,Bebas Neue Bold
+NameArray:0,Win,16,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\GOTHAM-BOOK.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158964
+FileModTime:1563286181
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Ultra
+FamilyName:Gotham
+StyleName:Ultra
+FullName:Gotham Ultra
+MenuName:Gotham Ultra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\GOTHAM-ULTRA.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161252
+FileModTime:1563286181
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Ultra
+NameArray:0,Win,1,Gotham Ultra
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-CondObl
+FamilyName:Helvetica LT Std
+StyleName:Condensed Oblique
+FullName:Helvetica LT Std Condensed Oblique
+MenuName:Helvetica LT Std Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\HelveticaLTStd-CondObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30236
+FileModTime:1557268364
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Cond Obl
+NameArray:0,Mac,4,Helvetica LT Std Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LearningCurve-Bold
+FamilyName:Learning Curve
+StyleName:Bold
+FullName:Learning Curve Bold
+MenuName:Learning Curve
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\learning_curve_bold_ot_ps.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44932
+FileModTime:1567433822
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Learning Curve Bold
+NameArray:0,Win,1,Learning Curve
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Portfolio\Images\MDavis Portfolio Visual Guide FINAL Folder\Document fonts\MINIONPRO-REGULAR.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184404
+FileModTime:1563286190
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
