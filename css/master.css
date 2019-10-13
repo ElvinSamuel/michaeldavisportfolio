@@ -2,6 +2,32 @@
     Master CSS File for Michael Davis' Site.
 */
 
+/* Including all fonts */
+@font-face { 
+    font-family: GothamBook; 
+    src: url('../fonts/GOTHAM-BOOK.otf'); 
+} 
+
+@font-face { 
+    font-family: GothamUltra; 
+    src: url('../fonts/GOTHAM-ULTRA.otf'); 
+} 
+
+@font-face { 
+    font-family: BebasneaueBold; 
+    src: url('../fonts/BEBASNEUEBOLD.otf'); 
+} 
+
+@font-face { 
+    font-family: LearningCurve; 
+    src: url('../fonts/learning_curve_bold_ot_ps.otf'); 
+} 
+
+@font-face { 
+    font-family: MinionPro; 
+    src: url('../fonts/MINIONPRO-REGULAR.otf'); 
+} 
+
 body {
     background-color: #1d1d1d;
     margin: 0;
@@ -13,6 +39,11 @@ body {
     background-size: cover;
 }
 
+h1 {
+    font-family: LearningCurve;
+    font-size: 2.5em;
+    padding: none;
+}
 .page {
     width: 100%;
     height: 100%;
@@ -39,6 +70,7 @@ nav {
     width: 100%;
     background-color: white;
     text-align: right;
+    font-family: BebasneaueBold;
 }
 
 nav ul {
